@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410482785 source:c:\users\marcos\documents\github\progra2c2014\matrizcuadrada\main.c
+	<stdio.h>
+	"matrizcuadrada.h"
+
+1410482785 c:\users\marcos\documents\github\progra2c2014\matrizcuadrada\matrizcuadrada.h
+
