@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1414786847 source:c:\users\marcos\documents\github\progra2c2014\stockceramica\main.c
+	"StockCeramica.h"
+
+1414786601 c:\users\marcos\documents\github\progra2c2014\stockceramica\stockceramica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dir.h>
+
+1414786908 source:c:\users\marcos\documents\github\progra2c2014\stockceramica\stockceramica.c
+	"StockCeramica.h"
+

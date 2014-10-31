@@ -1,0 +1,4 @@
+Alpa	Almeria Azul	45x45	2	1.68	78.00	75.00	20	30	40
+Cerro Negro	Cerezo	40x40	1com	2.50	89.30	50.00	80	80	80
+Cortines	Rustico	20x20	1	2.40	70.00	49.00	50	5	0
+San Lorenzo	Tinelli	20x20	1	1.85	70.00	68.00	20	20	10
